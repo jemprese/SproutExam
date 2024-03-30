@@ -1,0 +1,5 @@
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Release\net5.0\Sprout.Exam.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Release\net5.0\Sprout.Exam.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Release\net5.0\Sprout.Exam.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Release\net5.0\Sprout.Exam.DataAccess.AssemblyInfo.cs
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Release\net5.0\Sprout.Exam.DataAccess.csproj.CoreCompileInputs.cache
