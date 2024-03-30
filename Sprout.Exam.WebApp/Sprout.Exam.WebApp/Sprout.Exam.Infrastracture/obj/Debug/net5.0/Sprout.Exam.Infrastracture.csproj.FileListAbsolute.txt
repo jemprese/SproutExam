@@ -1,0 +1,17 @@
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\bin\Debug\net5.0\Sprout.Exam.Infrastracture.deps.json
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\bin\Debug\net5.0\Sprout.Exam.Infrastracture.dll
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\bin\Debug\net5.0\Sprout.Exam.Infrastracture.pdb
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\bin\Debug\net5.0\Sprout.Exam.Business.dll
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\bin\Debug\net5.0\Sprout.Exam.Common.dll
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\bin\Debug\net5.0\Sprout.Exam.Business.pdb
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\bin\Debug\net5.0\Sprout.Exam.Common.pdb
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\obj\Debug\net5.0\Sprout.Exam.Infrastracture.csproj.AssemblyReference.cache
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\obj\Debug\net5.0\Sprout.Exam.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\obj\Debug\net5.0\Sprout.Exam.Infrastracture.AssemblyInfoInputs.cache
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\obj\Debug\net5.0\Sprout.Exam.Infrastracture.AssemblyInfo.cs
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\obj\Debug\net5.0\Sprout.Exam.Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\obj\Debug\net5.0\Sprout.Exam.Infrastracture.csproj.CopyComplete
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\obj\Debug\net5.0\Sprout.Exam.Infrastracture.dll
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\obj\Debug\net5.0\refint\Sprout.Exam.Infrastracture.dll
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\obj\Debug\net5.0\Sprout.Exam.Infrastracture.pdb
+C:\Users\Jeorge\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\Sprout.Exam.Infrastracture\obj\Debug\net5.0\ref\Sprout.Exam.Infrastracture.dll
